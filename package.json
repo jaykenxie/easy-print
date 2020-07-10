@@ -1,11 +1,30 @@
 {
   "name": "easy-print",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a general web page printing plugin.",
   "main": "index.js",
+  "typings": "index.d.ts",
+  "files": [
+    "index.js",
+    "printarea.js",
+    "index.d.ts"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jaykenxie",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaykenxie/easy-print.git"
+  },
+  "keywords": [
+    "print",
+    "web print",
+    "打印",
+    "vue print",
+    "react print",
+    "angular print",
+    "jquery print"
+  ],
   "license": "MIT"
 }
